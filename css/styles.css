@@ -556,6 +556,7 @@ img {
   color: #fff;
   padding: 8px 0 8px 16px;
   outline: transparent;
+  background-color: transparent;
 }
 .footer-form ::placeholder,
 .footer-input {
